@@ -1,2 +1,2 @@
-# Micro-Smart-Water-Test-Bed-
-Using Arduino, MySQL, Rstudio to connect EPANET to create a Micro-Smart Water Test Bed
+# MReal-time Data Assimilation Potential to Connect Micro-Smart Water Test Bed and Hydraulic Model
+Using Arduino programing, Water Flow Sesor, MySQL, Rstudio to connect EPANET hydraulic with a Micro-Smart Water Test Bed
